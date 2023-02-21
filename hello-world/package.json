@@ -1,0 +1,11 @@
+{
+  "name": "hello-world",
+  "version": "1.0.0",
+  "description": "# Let's create the `code` directory, and go into that.",
+  "main": "dir code",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
